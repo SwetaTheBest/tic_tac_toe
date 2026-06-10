@@ -2,6 +2,8 @@
 
 A simple console-based Tic-Tac-Toe game built using Python. This project demonstrates core programming concepts such as functions, dictionaries, input validation, game loops, recursion, and win-condition checking.
 
+<img width="800" height="450" alt="tic_tak_toe_pyhton" src="https://github.com/user-attachments/assets/0650950f-21be-4efc-a754-3a4891a5afc8" />
+
 ## Features
 
 * Two-player gameplay (X vs O)
@@ -93,3 +95,5 @@ Watch the terminal gameplay recording on Asciiinema:
 Sweta Jain
 
 Built as a Python learning project to practice problem-solving and game development fundamentals.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
